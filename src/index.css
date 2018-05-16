@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.score {
+    margin: auto;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 100px 120px 100px 100px 80px 80px 80px 80px 80px 2fr;
+    text-align: center;
+    margin-top: 7px;
+}
+
+button {
+    margin: 14px
+}
+
+input {
+    width: 100%;
+}
